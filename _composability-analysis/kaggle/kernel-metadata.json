@@ -1,0 +1,19 @@
+{
+    "competition_sources":  [
+
+                            ],
+    "id":  "jessealicea/ordo-composition-sim",
+    "enable_gpu":  false,
+    "kernel_type":  "script",
+    "kernel_sources":  [
+
+                       ],
+    "dataset_sources":  [
+
+                        ],
+    "is_private":  true,
+    "enable_internet":  false,
+    "language":  "python",
+    "title":  "Ordo Composition Sim",
+    "code_file":  "run.py"
+}
