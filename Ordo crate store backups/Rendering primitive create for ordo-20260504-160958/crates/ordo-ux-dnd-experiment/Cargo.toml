@@ -3,7 +3,7 @@ name = "ordo-ux-dnd-experiment"
 version = "0.1.0"
 edition = "2024"
 description = "Dev-mode drag and drop experiment for visually editing Ordo UX layouts."
-license = "MIT OR Apache-2.0"
+license = "PolyForm-Noncommercial-1.0.0"
 
 [dependencies]
 kurbo = "0.13"
